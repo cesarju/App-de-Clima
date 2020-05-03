@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="textGrados">23°</string>
+    <string name="textCiudad">Ciudad - La Paz</string>
+    <string name="textStatus">Nublado</string>
+    <string name="text_bienvenida">Bienvenido a mi app del clima,
+        para ver el clima dde una ciudad seleccionada.
+    </string>
+    <string name="texto_boton_ciudad">Clima de la ciudad de La Paz</string>
+    <string name="texto_boton_ciudad2">Clima de la ciudad de Cochabamba</string>
+</resources>
