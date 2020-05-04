@@ -23,7 +23,7 @@
         style="@style/Widget.AppCompat.Button.Borderless.Colored"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="@string/texto_boton_ciudad"
         android:textStyle="bold"
         tools:text="@string/texto_boton_ciudad" />
 
